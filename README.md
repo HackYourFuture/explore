@@ -10,9 +10,9 @@ If you haven't yet, please fill out the questionnaire [here TODO](TODO) that wil
 
 Welcome to the wonderful world of web development! In this module you will learn the basic building blocks of the web: HTML, CSS and JS. HTML gives us the power to add text, images and videos to a page. CSS gives us the power to organize these parts and make it look nice. JS gives us the power to perform logical operations to react to what the user is doing.
 
-This module will handle the basics of what is called `frontend` (as opposed to `backend` which we will handle in the HackYourFuture curriculum). What is frontend? It's another word for the presentational part of a piece of software. In terms of web development we're talking about "what you see" when you go to any website.
-
 Think of it like this: if a webpage were a person, the HTML would be the skeleton and CSS the skin and clothing and the JS the brain!
+
+This module will handle the very basics of what is called `frontend` (as opposed to `backend` which we will handle in the HackYourFuture curriculum). What is frontend? It's another word for the presentational part of a piece of software. In terms of web development we're talking about "what you see" when you go to any website.
 
 ### Learning Goals
 
@@ -32,7 +32,7 @@ This repository, as every repository in the HackYourFuture curriculum consists o
 1. `README`: this document contains all the required theory you need to understand. It contains not only the right resources to learn about the concepts, but also lectures done by HackYourFuture teachers. This is the **first thing** you should start with every week
 2. `MAKEME`: this document contains the instructions for each week's practical side. Start with the exercises rather quickly, so that you can ground the concepts you read about earlier.
 
-We provide a subset of materials that touches on all the concepts we would like you to learn and do. If you need more information then you can search the internet for more explanations. Luckily there is a lot of information out there!
+We provide a subset of materials that touches on all the concepts we would like you to learn and do. This is enough for some, but not for others, it is up to you to define what you need more information on. If you do need more information then you can search the internet for more explanations. Luckily there is a lot of information out there so it should not be too hard!
 
 ## Planning
 
@@ -45,8 +45,6 @@ We provide a subset of materials that touches on all the concepts we would like 
 
 ## Finished?
 
-Have you finished the module? Great! Pat yourself on the back for the great work you've done.
-
-If you feel ready for the next challenge, click [here](https://www.github.com/hackyourfuture/javascript1) to go to **JavaScript1**!
+Have you finished the module? Great! Pat yourself on the back for the great work you've done. Look out for a new class starting on our [website](https://www.hackyourfuture.net/) and apply!
 
 _The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_
