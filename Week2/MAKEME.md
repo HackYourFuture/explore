@@ -56,3 +56,7 @@ You don't have to build everything, but include the following requirements:
 - Use media queries for both tablet and mobile (This might be the same for the website you're making)
 
 Don't worry about the interactions with the page at this moment, we will be going into how that works later. For now it is important to focus on the look of the page!
+
+## Finished?
+
+Are you finished with going through the exercises? Well done!!! If you feel ready to go to the next week, click [here](../Week3/README.md).
