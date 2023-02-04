@@ -20,6 +20,7 @@ In the following exercises you'll learn how to use different JavaScript concepts
   - Functions
 - [Codecademy: Introduction to Functions](https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/exercises/intro-to-functions).
 - [jshero.net](https://www.jshero.net/en/success.html). Do exercises #6-#46
+- [Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 
 The above should give you some good practice again. If you have extra time and want to continue practicing, have a look at the following:
 
