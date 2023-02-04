@@ -1,5 +1,7 @@
 # Reading Material Start Week 1
 
+> HYF is a mostly self study course and each of these weeks are here to give you an indication of what a week at HYF looks like so you can make an informed decision before applying. 
+
 ## Agenda
 
 These are the topics for week 1:
