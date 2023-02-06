@@ -2,16 +2,18 @@
 
 ## Todo list
 
-1. Intro to HTML/CSS
-2. CSS Challenges
+1. Web design course
+2. CSS challenges
 3. Code along
 4. Challenges
 
-### **1. Intro to HTML/CSS**
+### **1. Web design course**
 
-The following course provides a very practical way of learning HTML. Have a go:
+FreeCodeCamp is a great learning resource and it has a [free course on Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) that takes you through building bigger webpages in the right way. For this week, try to do the following:
 
-- [Khan Academy: Intro to HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
+- Learn HTML by Building a Cat Photo App
+- Learn Basic CSS by Building a Cafe Menu
+- Learn CSS Colors by Building a Set of Colored Markers
 
 ### **2. CSS Challenges**
 

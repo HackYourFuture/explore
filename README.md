@@ -44,6 +44,6 @@ We provide a subset of materials that touches on all the concepts we would like 
 
 ## Finished?
 
-Have you finished the module? Great! Pat yourself on the back for the great work you've done. Remember to keep studying while you wait for a class to start as it will help you further down the line. Future you will thank you! To know what to do have a look at the list at the [end of Week 4](./Week4/MAKEME.md).
+Have you finished the module? Great! Pat yourself on the back for the great work you've done. Remember to keep studying while you wait for a class to start as it will help you further down the line. Future you will thank you! To know what to do have a look at the list at the [next steps](./NEXT.md).
 
 _The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_

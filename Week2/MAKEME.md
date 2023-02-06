@@ -2,22 +2,21 @@
 
 ## Todo list
 
-1. Optional: Flexbox/Grid games
+1. Web design course
 2. Responsive design challenges
 3. Code Along
-4. Challenge: Copy a professional website
+4. Optional: Flexbox/Grid games
+5. Challenge: Copy a professional website
 
-### 1. Optional: Flexbox/Grid games
+### **1. Web design course**
 
-If you like learning in a fun way there are quite a few games on the internet that teach you the way flexbox/grid works:
+FreeCodeCamp is a great learning resource and it has a [free course on Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) that takes you through building bigger webpages in the right way. For this week, try to do the following:
 
-- [Flexbox Froggy](https://flexboxfroggy.com/)
-- [Flexbox Defense](http://www.flexboxdefense.com/)
-- [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)
-- [Grid Garden](https://cssgridgarden.com/)
-- [Grid attack](https://codingfantasy.com/games/css-grid-attack)
-
-This is optional to get a better feel for flexbox/grid and how they work, if you feel comfortable with building pages using these technology then these games will not add much so you can skip it. It is still fun though!
+- Learn the CSS Box Model by Building a Rothko Painting
+- Learn CSS Flexbox by Building a Photo Gallery
+- Learn More About CSS Pseudo Selectors by Building a Balance Sheet
+- Learn Responsive Web Design by Building a Piano
+- Learn CSS Grid by Building a Magazine
 
 ### 2. Responsive design challenges
 
@@ -35,7 +34,19 @@ In the following video you'll be rebuilding a responsive HTML5 website. Put your
 
 - [Build A Responsive Website With HTML & CSS Tutorial](https://www.youtube.com/watch?v=ZeDP-rzOnAA)
 
-### 4. Challenge: Copy a professional website
+### 4. Optional: Flexbox/Grid games
+
+If you like learning in a fun way there are quite a few games on the internet that teach you the way flexbox/grid works:
+
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Flexbox Defense](http://www.flexboxdefense.com/)
+- [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)
+- [Grid Garden](https://cssgridgarden.com/)
+- [Grid attack](https://codingfantasy.com/games/css-grid-attack)
+
+This is optional to get a better feel for flexbox/grid and how they work, if you feel comfortable with building pages using these technology then these games will not add much so you can skip it. It is still fun though!
+
+### 5. Challenge: Copy a professional website
 
 With the knowledge you have we now challenge you to rebuild `the landing page` of an existing responsive website. You will then see how professional websites are built. Then you can be very proud that you can already make a beautiful webpage from an example after just 2 weeks! Here are some good options to copy:
 

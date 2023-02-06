@@ -29,10 +29,6 @@ The above should give you some good practice again. If you have extra time and w
 
 Are you finished with going through the exercises? Well done, you have now gone through all of the materials in the starter repository of HYF!!! You should be proud of yourself as this is not easy.
 
-We hope you enjoyed the module and have a better idea of what web development is all about. If you are now excited to become a web developer then look at our [website](https://www.hackyourfuture.net/apply) when the next step will happen.
+We hope you enjoyed the module and have a better idea of what web development is all about. If you are now excited to become a web developer then look at our [website](https://www.hackyourfuture.net/apply) when the next class application closes.
 
-In the meantime you can continue learning by looking at the following resources. These will give you a head start with the curriculum!
-
-- [The JavaScript 30 by Wes Bos](https://javascript30.com/) - JavaScript30 is a great set of tutorials that build simple frontend applications using HTML/CSS/JavaScript!
-- [Code Wars](https://www.codewars.com/) - Code wars is a website where you can solve exercises and rank up! When signing up, only choose JavaScript to really focus the problems on learning to solve problems in it. You can later change it to other technologies when you get more familiar.
-- [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/readMe.md) - We have already done some of the days during this module, but it would be good to continue with the 30 Days of JavaScript course!
+In the meantime you can continue learning by looking at our [what's next section](../NEXT.md).
