@@ -41,7 +41,23 @@ Done? This is optional, but for those who are curious:
 - [Cheat sheet for basics and shortcuts](https://slack.com/intl/en-nl/help/articles/201374536-Slack-keyboard-shortcuts)
 - [How to format your messages in Slack](https://api.slack.com/reference/surfaces/formatting)
 
-### Where do I write my code? Inside a code editor called Visual Studio Code
+### Where do I write my code? That depends...
+
+In the end we will all write code in Visual Studio Code, but as a beginner it can be a bit intimidating so there are many alternatives you can use for this module. In the end it is up to you to decide which way you find most comfortable.
+
+#### For beginners!
+
+##### Codepen
+
+[CodePen](https://www.codepen.io) is an online code editor and development environment that allows you to write and experiment with HTML, CSS, and JavaScript. It provides a live preview of the code as you type so it is great for playing around with some code when building a website.
+
+##### JSTutor
+
+[JSTutor](https://pythontutor.com/javascript.html#mode=edit) is an online code editor that also can visualise the execution of the code which will help when initially learning JavaScript. So whenever you are doing pure JavaScript work we suggest using this website.
+
+#### For if you already know some things
+
+##### Visual Studio Code
 
 ![vscode logo](./assets/vscode-logo.png)
 

@@ -1,6 +1,6 @@
 # Reading Material Start Week 1
 
-> HYF is a mostly self study course and each of these weeks are here to give you an indication of what a week at HYF looks like so you can make an informed decision before applying. 
+> HYF is a mostly self study course and each of these weeks are here to give you an indication of what a week at HYF looks like so you can make an informed decision before applying.
 
 ## Agenda
 
@@ -21,6 +21,8 @@ These are the topics for week 1:
    - Choosing the right web browser
    - How to use the inspector
    - Useful browser extensions
+
+> If you haven't yet, make sure to follow the [setup guide](../SETUP.md) to have everything set up!
 
 ## 1. Introduction to HTML
 

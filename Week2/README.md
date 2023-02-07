@@ -12,6 +12,8 @@ These are the topics for week 2:
    - Pseudo class selectors
    - Pseudo elements
 
+> If you haven't yet, make sure to follow the [setup guide](../SETUP.md) to have everything set up!
+
 ## 1. Responsiveness
 
 By now you've had some practice with CSS. In the following sections you'll learn about some more essentials concepts in order to make sure that your webpages are responsive! In the modern age webpages are being accessed by many different devices with many different screen sizes which means that you as the developer need to write your CSS to support all those devices.

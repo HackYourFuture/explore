@@ -15,6 +15,8 @@ These are the topics for week 3:
 
 > From this week on we will be using the study book that is shared across all HackYourFuture chapters to explain the concepts rather than having the explanations here. You can click on each concept in the list above to go to the explanation! There are usually also extra reading links that you can go into if you need a little more help, but those are optional.
 
+> If you haven't yet, make sure to follow the [setup guide](../SETUP.md) to have everything set up!
+
 ## 1. What is programming?
 
 Welcome to week 3! This week we are going to go deeper into web development by learning the programming language that the browser can understand: JavaScript!
