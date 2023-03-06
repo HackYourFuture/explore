@@ -37,12 +37,12 @@ We provide a subset of materials that touches on all the concepts we would like 
 
 ## Planning
 
-| Week | Topic                            | Reading Materials              | Homework                        |
-| ---- | -------------------------------- | ------------------------------ | ------------------------------- |
-| 1.   | HTML/CSS syntax                  | [W1 Reading](/Week1/README.md) | [W1 Homework](/Week1/MAKEME.md) |
-| 2.   | HTML/CSS: Responsive design      | [W2 Reading](/Week2/README.md) | [W2 Homework](/Week2/MAKEME.md) |
-| 3.   | JS: Variables, Operators, Arrays | [W3 Reading](/Week3/README.md) | [W3 Homework](/Week3/MAKEME.md) |
-| 4.   | JS: Functions, DOM Manipulation  | [W4 Reading](/Week4/README.md) | [W4 Homework](/Week4/MAKEME.md) |
+| Week | Topic                            | Reading Materials              | Exercises                        |
+| ---- | -------------------------------- | ------------------------------ | -------------------------------- |
+| 1.   | HTML/CSS syntax                  | [W1 Reading](/Week1/README.md) | [W1 Exercises](/Week1/MAKEME.md) |
+| 2.   | HTML/CSS: Responsive design      | [W2 Reading](/Week2/README.md) | [W2 Exercises](/Week2/MAKEME.md) |
+| 3.   | JS: Variables, Operators, Arrays | [W3 Reading](/Week3/README.md) | [W3 Exercises](/Week3/MAKEME.md) |
+| 4.   | JS: Functions, DOM Manipulation  | [W4 Reading](/Week4/README.md) | [W4 Exercises](/Week4/MAKEME.md) |
 
 ## Finished?
 
