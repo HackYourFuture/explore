@@ -34,6 +34,7 @@ In the following exercises you'll learn how to use different JavaScript concepts
   - Conditions
 - [Codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction). Do the exercises (#1 to #7).
 - [jshero.net](https://www.jshero.net/en/success.html). Do the first 5 exercises.
+- [w3schools](https://www.w3schools.com/js/exercise_js.asp). Do the JS Variables, JS Operators, JS Data Types, JS Objects, JS Arrays, JS Array Methods and JS Array Sort exercises. 
 
 The above should give you a nice basis. If you have extra time and are still a little unsure, have a look at the following:
 
