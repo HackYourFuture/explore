@@ -38,7 +38,9 @@ In the following exercises you'll learn how to use different JavaScript concepts
 
 The above should give you a nice basis. If you have extra time and are still a little unsure, have a look at the following:
 
+- [Programiz: JAvascript](https://www.programiz.com/javascript/get-started). This getting started tutorial goes through the basics and provides a lot of examples!
 - [FreeCodeCamp: Introduction to JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript). You can choose whichever ones you feel are challenging enough.
+
 
 ## Finished?
 
