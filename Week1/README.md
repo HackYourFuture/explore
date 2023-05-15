@@ -53,7 +53,7 @@ This leads to the following insight about writing code: while code is written to
 
 Take a look at the following resources to learn more about semantic HTML:
 
-- [Semantic HTML](https://www.internetingishard.com/html-and-css/semantic-html/)
+- [Semantic HTML](https://internetingishard.netlify.app/html-and-css/semantic-html/)
 - [HTML5 as Fast as Possible](https://www.youtube.com/watch?v=IsXEVQRaTX8)
 
 ## 2. Introduction to CSS
