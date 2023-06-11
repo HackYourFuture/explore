@@ -27,7 +27,7 @@ What it does is helping you to think according to `grid-based web design`: eleme
 Read the following to learn more about 'grid-based web design':
 
 - [Introduction to grids in web design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521)
-- [Intro to Web Design Grids](https://www.youtube.com/watch?v=gjYZoPEk0ow)
+- [Grid Systems in Web & UI Design](https://www.youtube.com/watch?v=n_V_aLqYPI0)
 
 Once you understand this way of thinking you'll know why it makes sense to use `flexbox`.
 
