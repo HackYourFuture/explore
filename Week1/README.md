@@ -159,7 +159,6 @@ For further study, delve into the following:
 
 - [What is a browser?](https://www.youtube.com/watch?v=TcbhVv9ty44)
 - [How web browsers work](https://www.youtube.com/watch?v=WjDrMKZWCt0)
-- [About your web browser](http://www.allaboutcookies.org/browsers/)
 
 ### Choosing the right browser
 
