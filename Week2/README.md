@@ -55,7 +55,7 @@ The complete guide to grid by css-tricks is the go to guide, read it here:
 
 Nowadays people use different devices to access websites: desktops, tablets and mobile phones of all different sizes. Responsive design is a way to put together a website so that it automatically scales its content and elements to match the screen size of the viewer. It prevents that images are larger than the screen width, so visitors on mobile devices will see a visually attractive website as well
 
-For more information about responsive design, check this article: [Responsive Design](https://www.internetingishard.com/html-and-css/responsive-design/).
+For more information about responsive design, check this article: [Modern Responsive Design](https://css-tricks.com/responsive-layouts-fewer-media-queries/).
 
 The primary way of making a responsive website is by writing custom CSS code that makes it so. This can be done using `media queries`: CSS instructions that only apply to certain screen sizes.
 
@@ -104,7 +104,7 @@ Next to pseudo class selectors there is also something called pseudo elements. T
 
 ```css
 .required::after {
-  content: "*";
+  content: '*';
 }
 ```
 
